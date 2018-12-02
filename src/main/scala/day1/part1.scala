@@ -2,7 +2,7 @@ package day1
 
 import scala.io.Source
 
-object exercise1 extends App {
+object part1 extends App {
 
   val fileStream = getClass.getResourceAsStream("/inputDay1.txt")
   val lines = Source.fromInputStream(fileStream).getLines
