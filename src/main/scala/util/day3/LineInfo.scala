@@ -1,4 +1,4 @@
-package util
+package util.day3
 
 case class LineInfo(
                    id: Int,

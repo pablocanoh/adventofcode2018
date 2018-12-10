@@ -1,6 +1,6 @@
 package day3
 
-import util.LineInfo
+import util.day3.LineInfo
 
 import scala.io.Source
 
